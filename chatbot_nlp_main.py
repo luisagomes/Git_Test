@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#test modifica
 # TODO gestire in modo efficiente normalizzazione target, calcolo tf-idf
 # TODO add logg class
 
